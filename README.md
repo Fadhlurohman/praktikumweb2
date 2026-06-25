@@ -116,7 +116,7 @@ Dokumentasi hasil:
 
 <img src="gambar/instalasi.png" >
 
-<img src="gambar/halaman utama.png"
+<img src="gambar/halaman utama.png" >
 ---
 
 # Praktikum 2 - Framework Lanjutan CRUD
